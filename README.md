@@ -1,5 +1,5 @@
 ### Federico Cunico, PhD Student
-[![Federico Cunico's GitHub stats](https://github-readme-stats.vercel.app/api?username=federicocunico)](https://github.com/anuraghazra/github-readme-stats)
+[![Federico Cunico's GitHub stats](https://github-readme-stats.vercel.app/api?username=federicocunico&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 I am a Computer Vision and Deep Learning researcher at the University of Verona!
 
